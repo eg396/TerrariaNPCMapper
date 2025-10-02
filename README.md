@@ -18,3 +18,6 @@ In the "characters.txt" file, there's a bunch of characters listed out - I'll ha
 - Disliked NPCs
 - Hated NPCs
 
+# How does it work?
+
+The algorithm here is greedy - as in, I am neglecting more refined methods of searching for connections between NPCs, and decided to just brute-force it by searching for the best possible connection and then moving on. Priority is first given to NPCs that 'love' each other, and is afterwards just looking for the strongest connections. Groups cannot be larger than 4; if there are leftover NPCs then the algorithm will deal with this by shortening the group size to 3 for a few groups until there is no leftover.
