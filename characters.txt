@@ -1,0 +1,207 @@
+Guide
+Forest
+Ocean
+None
+Princess,Clothier,Zoologist
+Steampunker
+Painter
+
+Merchant
+Forest
+Desert
+None
+Princess,Golfer,Nurse
+Tax Collector
+Angler
+
+Nurse
+Hallow
+Snow
+Arms Dealer
+Princess,Wizard
+Party Girl,Dryad
+Zoologist
+
+Demolitionist
+Underground,Cavern,Underworld
+Ocean
+Tavernkeep
+Princess,Mechanic
+Goblin Tinkerer,Arms Dealer
+None
+
+Dye Trader
+Desert
+Forest
+None
+Princess,Arms Dealer,Painter
+Steampunker
+Pirate
+
+Angler
+Ocean
+Desert
+None
+Princess,Party Girl,Demolitionist,Tax Collector
+None
+Tavernkeep
+
+Zoologist
+Forest
+Desert
+Witch Doctor
+Princess,Golfer
+Angler
+Arms Dealer
+
+Dryad
+Jungle
+Desert
+None
+Princess,Witch Doctor,Truffle
+Angler
+Golfer
+
+Painter
+Jungle
+Forest
+Dryad
+Princess,Party Girl
+Cyborg,Truffle
+None
+
+Golfer
+Forest
+Underground,Cavern,Underworld
+Angler
+Princess,Painter,Zoologist
+Pirate
+Merchant
+
+Arms Dealer
+Desert
+Snow
+Nurse
+Princess,Steampunker
+Golfer
+Demolitionist
+
+Tavernkeep
+Hallow
+Snow
+Demolitionist
+Princess,Goblin Tinkerer
+Guide
+Dye Trader
+
+Stylist
+Ocean
+Snow
+Dye Trader
+Princess,Pirate
+Tavernkeep
+Goblin Tinkerer
+
+Goblin Tinkerer
+Underground,Cavern,Underworld
+Jungle
+Mechanic
+Princess,Dye Trader
+Clothier
+Stylist
+
+Witch Doctor
+Jungle
+Hallow
+None
+Princess,Dryad,Guide
+Nurse
+Truffle
+
+Clothier
+Underground,Cavern,Underworld
+Hallow
+Truffle
+Princess,Tax Collector
+Nurse
+Mechanic
+
+Mechanic
+Snow
+Underground,Cavern,Underworld
+Goblin Tinkerer
+Princess,Cyborg
+Arms Dealer
+Clothier
+
+Party Girl
+Hallow
+Underground,Cavern,Underworld
+Wizard,Zoologist
+Princess,Stylist
+Merchant
+Tax Collector
+
+Wizard
+Hallow
+Ocean
+Golfer
+Princess,Merchant
+Witch Doctor
+Cyborg
+
+Tax Collector
+Snow
+Hallow
+Merchant
+Princess,Party Girl
+Demolitionist,Mechanic
+Santa Claus
+
+Truffle
+Mushroom
+None
+Guide
+Princess,Dryad
+Clothier
+Witch Doctor
+
+Pirate
+Ocean
+Underground,Cavern,Underworld
+Angler
+Princess,Tavernkeep
+Stylist
+Guide
+
+Steampunker
+Desert
+Jungle
+Cyborg
+Princess,Painter
+Party Girl,Wizard,Dryad
+None
+
+Cyborg
+Snow
+Jungle
+None
+Princess,Stylist,Pirate,Steampunker
+Zoologist
+Wizard
+
+Santa Claus
+Snow
+Desert
+None
+Princess
+None
+Tax Collector
+
+Princess
+All
+None
+All
+All
+None
+None

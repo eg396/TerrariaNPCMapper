@@ -1,0 +1,128 @@
+Temporary
+
+mods that use NPCs:
+
+AlchemistNPC Lite
+Calamity Mod
+Journey's Trend
+Calamity's Vanities
+
+Alchemist
+Underground,Forest
+Snow
+Young Brewer
+Mechanic
+Brewer
+None
+
+Brewer
+Forest,Jungle
+Snow
+Young Brewer
+Alchemist
+Witch Doctor
+None
+
+Jeweler
+Forest,Jungle
+Snow
+Merchant
+Tax Collector
+Party Girl
+None
+
+Architect
+Jungle,Ocean
+Snow
+Painter
+Goblin Tinkerer
+Tax Collector
+None
+
+Operator
+Snow,Ocean
+Underground
+Cyborg
+Steampunker
+Clothier
+None
+
+Musician
+Hallow,Underground
+Snow
+Party Girl
+Wizard
+Goblin Tinkerer
+None
+
+Young Brewer
+Forest,Desert
+Snow
+Brewer
+Alchemist
+Goblin Tinkerer
+None
+
+Sea King
+Ocean
+Desert
+None
+Pirate
+Demolitionist
+Angler
+
+Bandit
+Desert
+Jungle
+None
+Goblin Tinkerer
+Dryad
+None
+
+Archmage
+Snow
+Desert
+None
+Wizard
+Cyborg
+None
+
+Brimstone Witch
+Forest
+Brimstone
+None
+Clothier
+Party Girl
+None
+
+Vanity Trader
+Forest,Ocean
+Mushroom,Corruption,Crimson
+None
+Clothier,Stylist,Dye Trader
+None
+None
+
+Oracle
+Forest
+Snow
+None
+Zoologist,Princess
+Arms Dealer
+None
+
+Jelly Priestess
+Ocean,Forest
+Desert
+None
+Dryad,Princess
+Demolitionist
+None
+
+Jungle Tyrant
+Mushroom,Jungle
+Snow,Ocean
+Dryad
+Pirate,Princess
+Witch Doctor
+Tax Collector
