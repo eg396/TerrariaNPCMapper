@@ -14,7 +14,7 @@ def match_biomes(groups):
     """
 
     for group in groups:
-        best_biome = None
+        best_biomes = []
         best_score = -float("inf")
 
         for biome in biomes:
@@ -24,8 +24,11 @@ def match_biomes(groups):
                     temp_score += 0.2
                 else:
                     temp_score -= 0.2
+
             if temp_score > best_score:
                 best_score = temp_score
-                best_biome = biome
+                best_biomes = [biome]
+            elif temp_score == best_score:
+                best_biomes.append(biome)
 
-        group.biome = best_biome
+        group.biome = best_biomes
