@@ -2,6 +2,7 @@ from group import Group
 from itertools import combinations
 import random
 from copy import deepcopy
+from match_biomes import match_biomes
 
 groups = []
 ungrouped = set()
@@ -83,6 +84,9 @@ def build_groups(characters, include_biome=True, iterations=100):
     # Set globals to the best iteration
     groups = best_groups
     ungrouped = set(c for g in groups for c in g.characters)  # optional: leftover handling
+
+    # Finally, match biomes
+    match_biomes(groups)
 
     return groups
 
